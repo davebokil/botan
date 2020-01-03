@@ -257,7 +257,11 @@
 	@media screen and (max-width: 480px) {
 
 		h1 {
-			font-size: 1.65em;
+			font-size: 4em;
+		}
+
+		p {
+			font-size: 14px;
 		}
 
 	}
